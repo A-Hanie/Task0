@@ -1,0 +1,6 @@
+controller_node:
+  ros__parameters:
+    setpoint: 1.0
+    kp: 0.2
+    ki: 0.00
+    kd: 0.1
